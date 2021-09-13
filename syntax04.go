@@ -6,7 +6,7 @@ import (
 	"time" //seed 생성용 패키지
 )
 
-//난수 추출된 수의 소수 판정 프로그램 ver0.3
+//난수 추출된 수의 소수 판정 프로그램 ver0.4
 func main() {
 	seed := time.Now().Unix() //seed설정
 	rand.Seed(seed)
@@ -17,12 +17,11 @@ func main() {
 
 	for i := 2; i < number; i++ {
 		if number%i == 0 {
-			//count++
 			isPrime = false
 		}
-
+		fmt.Print(i, " ")
 	}
-	if isPrime == true {
+	if isPrime { //자체가 bool이라 이렇게쓸수있음 비교연산자 제거
 		fmt.Println(number, "는 소수 입니다.")
 	} else {
 		fmt.Println(number, "는 소수가 아닙니다.")
