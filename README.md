@@ -23,6 +23,8 @@
 게임 화면 
 <img src="https://github.com/jeonyuzin/android_opengl_game/blob/main/readimg/Game_main.png">
 <img src="https://github.com/jeonyuzin/android_opengl_game/blob/main/readimg/mode.png">
-<img src="https://github.com/jeonyuzin/android_opengl_game/blob/main/readimg/game_play.png">
+<video autoplay controls loop muted poster="aaa" preload="bbb">
+  <source src="https://github.com/jeonyuzin/android_opengl_game/blob/main/readimg/프로젝트 시연" type="video/mp4">
+</video>
 
 
