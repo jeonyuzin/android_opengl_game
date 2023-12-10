@@ -24,7 +24,7 @@
 <img src="https://github.com/jeonyuzin/android_opengl_game/blob/main/readimg/Game_main.png">
 <img src="https://github.com/jeonyuzin/android_opengl_game/blob/main/readimg/mode.png">
 <video>
-  <source src="https://github.com/jeonyuzin/android_opengl_game/blob/main/readimg/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%8B%9C%EC%97%B0.mp4)https://github.com/jeonyuzin/android_opengl_game/blob/main/readimg/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%8B%9C%EC%97%B0.mp4" type="video/mp4">
+<source src="https://github.com/jeonyuzin/android_opengl_game/blob/main/readimg/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%8B%9C%EC%97%B0.mp4">
 </video>
 
 
