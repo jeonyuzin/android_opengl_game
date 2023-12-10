@@ -24,7 +24,6 @@
 <img src="https://github.com/jeonyuzin/android_opengl_game/blob/main/readimg/Game_main.png">
 <img src="https://github.com/jeonyuzin/android_opengl_game/blob/main/readimg/mode.png">
 <video width="320" height="240" controls>
-  <source src="/readimg/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%8B%9C%EC%97%B0.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="https://github.com/jeonyuzin/android_opengl_game/blob/main/readimg/play.mp4" type="video/mp4">
 </video>
 
