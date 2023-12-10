@@ -21,7 +21,6 @@
 <img src="https://github.com/jeonyuzin/android_opengl_game/blob/main/readimg/reg.png">
 
 게임 화면 
-<img src="https://github.com/jeonyuzin/android_opengl_game/blob/main/readimg/Game_main.png">
 <img src="https://github.com/jeonyuzin/android_opengl_game/blob/main/readimg/mode.png">
 <img src="https://github.com/jeonyuzin/android_opengl_game/blob/main/readimg/play.gif">
 
