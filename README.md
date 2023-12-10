@@ -23,8 +23,5 @@
 게임 화면 
 <img src="https://github.com/jeonyuzin/android_opengl_game/blob/main/readimg/Game_main.png">
 <img src="https://github.com/jeonyuzin/android_opengl_game/blob/main/readimg/mode.png">
-
-<video src="https://github.com/jeonyuzin/android_opengl_game/blob/main/readimg/play.mp4" type="video/mp4">
-    <p>Your browser cannot play the provided video file.</p>
-</video>
+<img src="https://github.com/jeonyuzin/android_opengl_game/blob/main/readimg/play.gif">
 
